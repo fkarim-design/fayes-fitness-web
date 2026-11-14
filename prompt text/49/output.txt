@@ -1,0 +1,13 @@
+Done, and released to main as v2.48.
+
+- On the Retreats page, the buttons under Mind Fit Retreats Zanzibar and the F.I.T Trip now say "Book Here" and open your new pages:
+  - Mind Fit Retreats Zanzibar: https://view.flodesk.com/emails/6af5ba617be989f651f16c23
+  - The F.I.T Trip, Bulgaria: https://view.flodesk.com/emails/6af6f0384d8decda8bb7dd29
+- The Retreat Planner keeps its "More Info Here" button, which opens the info deck.
+- The old links weren't used anywhere else on the site, so nothing still points to them.
+
+One thing to do yourself: I can't open Flodesk pages from here, so please tap each Book Here button once on the live site to check it lands on the right page.
+
+Verified before pushing:
+- Both buttons read Book Here with the new links, on a computer and on a phone.
+- Every page at phone, tablet and desktop sizes: no errors, every image loads, every link works. Offline mode, fresh styling on the first visit, every video's thumbnail, and the API.
