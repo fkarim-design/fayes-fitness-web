@@ -1,0 +1,9 @@
+Done, and released to main as v2.51.
+
+- The winged F.I.T Academy logo is gone from the top of the Instructor Training page.
+- "Become a F.I.T Trainer" and your words stay where they were, the same width as on every other page, with the purple background running across the right-hand side on a computer.
+- The logo isn't used anywhere else on the site now. The file is kept, so it can come back if you ever want it.
+
+Verified before pushing:
+- The Instructor Training banner checked on a phone and a computer.
+- Every page at phone, tablet and desktop sizes: no errors, every image loads, every link works. Offline mode, fresh styling on the first visit, every video's thumbnail, and the API.

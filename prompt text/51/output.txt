@@ -1,9 +1,0 @@
-Done, and released to main as v2.50.
-
-- The photo of you on the Coaching page, beside "Coaching and Consulting", is now straight with no black border, with the same softly rounded corners as the Work Gallery photo.
-- On a computer it still lines up with the photo in the section below, and its bottom now sits exactly level with the "Enquire here" button. The tilt used to put it a few pixels out.
-- The App, Presenting and Speaking pages still have framed, tilted photos. Say if you'd like those straightened as well, so every page matches.
-
-Verified before pushing:
-- The Coaching photo checked on a phone and a computer: straight, no border, lined up with the photo below and level with the button.
-- Every page at phone, tablet and desktop sizes: no errors, every image loads, every link works. Offline mode, fresh styling on the first visit, every video's thumbnail, and the API.

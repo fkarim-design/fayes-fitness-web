@@ -199,7 +199,8 @@ prompt text/            the archive for the version in service (see below)
   belongs on the inner pages.
 - **The Instructor Training page** (/academy) follows Faye's INSTRUCTOR TRAINING brief word for
   word (v2.31): "Instructor Training" over "Become a F.I.T Trainer" with the EMD UK and
-  Platinum Performing Arts credit and "Enquire here" to her email; More Than a Certificate
+  Platinum Performing Arts credit and "Enquire here" to her email, and no logo beside them
+  (the F.I.T Academy logo was taken out at her request, v2.51); More Than a Certificate
   beside her studio photo, shown whole and narrower (`split-portrait`, her choice, v2.35);
   Choose Your Concept (F.I.T Jam and F.I.T Combat cards with their concept logos, on a light
   section because the Combat logo is black); What's Included; Where It Can Take You; Who It's
@@ -266,7 +267,8 @@ prompt text/            the archive for the version in service (see below)
   `fit-logo-{purple,white,black}-hd.svg` and `fit-mark-hd.svg` from shapes measured off the
   guide's logo, with the name set in Montserrat Bold outlines; 4000px transparent PNGs of
   each are in `brand/logo/` for Faye's own use. Change the logo there, never by hand.
-- **Family logos — always use them:** F.I.T (`fit-logo-*-hd.svg`), F.I.T Academy (the winged F/A,
+- **Family logos — use them where they belong** (Faye removed the Academy logo from the
+  Instructor Training banner, v2.51, so don't put it back there): F.I.T (`fit-logo-*-hd.svg`), F.I.T Academy (the winged F/A,
   `fit-academy-*.svg`, traced from the deck), Mind Fit Retreats (`mindfit-retreats-*`), and the
   six concept logos (`fit-jam` … `fit-bands`). Originals live in `brand/logo/`.
 - **Headings:** capitalise the first letter of each word in card and section headings ("F.I.T
@@ -411,7 +413,9 @@ first message asked without the links; her second gave them). `prompt text/50/` 
 Work Gallery banner photo straightened with no frame, with her screenshot. (Her repeat of the
 Book Here request, already live in v2.48, shipped nothing.) `prompt text/51/` shipped with
 v2.50: the Coaching banner photo straightened with no frame, with her photo of the screen.
-The next release that ships new owner words starts `prompt text/52/`.
+`prompt text/52/` shipped with v2.51: the Academy logo removed from the Instructor Training
+banner, with her photo of the screen. The next release that ships new owner words starts
+`prompt text/53/`.
 
 ## Go-live checklist (phase 6)
 
@@ -523,5 +527,6 @@ handed back with each push. v2.0 onwards is the rebuild.
 | v2.48 | Book Here for Zanzibar and the F.I.T Trip | On the Retreats page, Mind Fit Retreats Zanzibar and the F.I.T Trip to Bulgaria now each have a Book Here button that opens Faye's new booking page for that trip, so visitors can go straight from reading about a retreat to securing their place. |
 | v2.49 | The Work Gallery photo, straight and unframed | The photo at the top of the Work Gallery, Faye on stage with the crowd, now sits straight without its black border, with softly rounded corners like the gallery's other pictures. |
 | v2.50 | The Coaching photo, straight and unframed too | The photo of Faye beside Coaching and Consulting now sits straight without its black border, with the same softly rounded corners as the Work Gallery's, still lined up over the photo below and level with the Enquire here button. |
+| v2.51 | Instructor Training opens without the logo | The Instructor Training page now opens with just Become a F.I.T Trainer and Faye's words, the winged F.I.T Academy logo beside them taken away at her request. |
 
-Next release: **v2.51**.
+Next release: **v2.52**.
