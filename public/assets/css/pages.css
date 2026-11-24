@@ -17,8 +17,9 @@
 .page-hero .cta { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 26px; }
 .hero-media { justify-self: center; width: min(86vw, 440px); }
 .hero-media.tilt { transform: rotate(2.5deg); }
-/* Work Gallery's banner photo: straight and unframed, rounded like the gallery's photos (Faye, v2.49) */
-.hero-media.hero-feature { border-radius: var(--radius); }
+/* Work Gallery's and Coaching's banner photos: straight and unframed, rounded like the
+   gallery's photos (Faye, v2.49 and v2.50) */
+.hero-media.hero-feature, .hero-media.align-below { border-radius: var(--radius); }
 /* Tall (portrait) banner photos: smaller on phones; on desktop they take their height from
    the text beside them, so the photo ends level with the buttons (Faye, v2.17), up to a
    limit, so a long introduction (Coaching, v2.24) never pushes the photo into the words. Always the
@@ -284,7 +285,7 @@
   .page-hero .wrap:has(.hero-feature) { grid-template-columns: 1fr 1fr; align-items: center; }
   .hero-media.hero-feature { width: min(38vw, 500px); }
   .page-hero .wrap:has(.align-below) { container-type: inline-size; }
-  .hero-media.hero-tall.align-below { justify-self: start; margin-left: calc(17.5cqw - 1.3px); transform: translateX(-50%) rotate(2.5deg); }
+  .hero-media.hero-tall.align-below { justify-self: start; margin-left: calc(17.5cqw - 1.3px); transform: translateX(-50%); }
   .about-hero .wrap { grid-template-columns: 1.15fr .85fr; grid-template-rows: auto 1fr; column-gap: 36px; }
   .about-bio { grid-column: 1; grid-row: 2; margin-top: 22px; }
   /* her photo starts level with the top of the title (Faye, v2.16), its crop line faded */
