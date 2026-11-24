@@ -17,6 +17,8 @@
 .page-hero .cta { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 26px; }
 .hero-media { justify-self: center; width: min(86vw, 440px); }
 .hero-media.tilt { transform: rotate(2.5deg); }
+/* Work Gallery's banner photo: straight and unframed, rounded like the gallery's photos (Faye, v2.49) */
+.hero-media.hero-feature { border-radius: var(--radius); }
 /* Tall (portrait) banner photos: smaller on phones; on desktop they take their height from
    the text beside them, so the photo ends level with the buttons (Faye, v2.17), up to a
    limit, so a long introduction (Coaching, v2.24) never pushes the photo into the words. Always the
