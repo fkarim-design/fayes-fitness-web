@@ -1,0 +1,9 @@
+Done, and released to main as v2.52.
+
+- The large Mind Fit Retreats logo is gone from the top of the Retreats page.
+- Your introduction and the Enquire here button stay where they were. The banner is now shorter, so on a computer the whole Mind Fit Retreats Zanzibar section, Book Here button included, shows as soon as the page opens.
+- The logo file is kept, so it can come back if you want it.
+
+Verified before pushing:
+- The Retreats banner checked on a phone and a computer.
+- Every page at phone, tablet and desktop sizes: no errors, every image loads, every link works. Offline mode, fresh styling on the first visit, every video's thumbnail, and the API.

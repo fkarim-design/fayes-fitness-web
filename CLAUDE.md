@@ -176,8 +176,8 @@ prompt text/            the archive for the version in service (see below)
   (`/assets/docs/fit-academy-coaching-packages.pdf`, v2.33). No closing banner. Tall banner
   photos are capped in height so a long introduction never pushes them into the words.
 - **The Retreats page** (/experiences, Faye's Retreats brief, v2.15) has the pink label
-  "Experiences" over the white title "Retreats" (Faye, v2.21), the large Mind Fit Retreats
-  logo beside her introduction and one "Enquire here" button to her email (v2.27), then Mind Fit Retreats Zanzibar (1st–10th Feb 2027), the F.I.T Trip Spa
+  "Experiences" over the white title "Retreats" (Faye, v2.21), her introduction with no logo
+  beside it (the large Mind Fit Retreats logo was taken out at her request, v2.52) and one "Enquire here" button to her email (v2.27), then Mind Fit Retreats Zanzibar (1st–10th Feb 2027), the F.I.T Trip Spa
   Break Bulgaria (22nd–25th Apr 2027, shortened from the 26th at her request, v2.47) and The Retreat Planner, each in her words; Zanzibar and the F.I.T Trip have "Book Here"
   buttons to her booking pages on Flodesk (v2.48: new links, renamed from "More Info Here"),
   and The Retreat Planner keeps "More Info Here" to her Retreat Planner Info Deck
@@ -268,7 +268,8 @@ prompt text/            the archive for the version in service (see below)
   guide's logo, with the name set in Montserrat Bold outlines; 4000px transparent PNGs of
   each are in `brand/logo/` for Faye's own use. Change the logo there, never by hand.
 - **Family logos — use them where they belong** (Faye removed the Academy logo from the
-  Instructor Training banner, v2.51, so don't put it back there): F.I.T (`fit-logo-*-hd.svg`), F.I.T Academy (the winged F/A,
+  Instructor Training banner, v2.51, and the Mind Fit Retreats logo from the Retreats banner,
+  v2.52, so don't put them back there): F.I.T (`fit-logo-*-hd.svg`), F.I.T Academy (the winged F/A,
   `fit-academy-*.svg`, traced from the deck), Mind Fit Retreats (`mindfit-retreats-*`), and the
   six concept logos (`fit-jam` … `fit-bands`). Originals live in `brand/logo/`.
 - **Headings:** capitalise the first letter of each word in card and section headings ("F.I.T
@@ -414,8 +415,9 @@ Work Gallery banner photo straightened with no frame, with her screenshot. (Her 
 Book Here request, already live in v2.48, shipped nothing.) `prompt text/51/` shipped with
 v2.50: the Coaching banner photo straightened with no frame, with her photo of the screen.
 `prompt text/52/` shipped with v2.51: the Academy logo removed from the Instructor Training
-banner, with her photo of the screen. The next release that ships new owner words starts
-`prompt text/53/`.
+banner, with her photo of the screen. `prompt text/53/` shipped with v2.52: the Mind Fit
+Retreats logo removed from the Retreats banner, with her photo of the screen. The next
+release that ships new owner words starts `prompt text/54/`.
 
 ## Go-live checklist (phase 6)
 
@@ -528,5 +530,6 @@ handed back with each push. v2.0 onwards is the rebuild.
 | v2.49 | The Work Gallery photo, straight and unframed | The photo at the top of the Work Gallery, Faye on stage with the crowd, now sits straight without its black border, with softly rounded corners like the gallery's other pictures. |
 | v2.50 | The Coaching photo, straight and unframed too | The photo of Faye beside Coaching and Consulting now sits straight without its black border, with the same softly rounded corners as the Work Gallery's, still lined up over the photo below and level with the Enquire here button. |
 | v2.51 | Instructor Training opens without the logo | The Instructor Training page now opens with just Become a F.I.T Trainer and Faye's words, the winged F.I.T Academy logo beside them taken away at her request. |
+| v2.52 | Retreats opens straight onto the trips | The Retreats page banner no longer carries the large Mind Fit Retreats logo, so Faye's introduction leads straight on to the retreats, and on a computer the whole Zanzibar retreat with its Book Here button now shows on the opening screen. |
 
-Next release: **v2.52**.
+Next release: **v2.53**.
