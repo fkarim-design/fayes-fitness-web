@@ -1,9 +1,0 @@
-Done, and released to main as v2.49.
-
-- The photo at the top of the Work Gallery, you on stage with the crowd, is now straight with no black border, on a phone and on a computer.
-- It has the same softly rounded corners as the other pictures in the gallery, so it sits in with the rest of the page.
-- The framed, tilted photos on the App, Coaching, Presenting and Speaking pages are unchanged. Say if you'd like those straightened too.
-
-Verified before pushing:
-- The Work Gallery banner checked on a phone and a computer: straight, no border.
-- Every page at phone, tablet and desktop sizes: no errors, every image loads, every link works. Offline mode, fresh styling on the first visit, every video's thumbnail, and the API.

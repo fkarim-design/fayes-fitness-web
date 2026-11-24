@@ -155,8 +155,9 @@ prompt text/            the archive for the version in service (see below)
   (Faye, v2.18). Coaching's photo has its centre in line with the centre of the photo in the
   section below (`align-below`, v2.22). Work Gallery's banner photo is a little larger and centred against its
   words (`hero-feature`, v2.22); since v2.49 it is straight with no frame, rounded like the
-  gallery's photos, at Faye's request (the App, Coaching, Presenting and Speaking banner photos
-  keep the black frame and tilt). Faye checks pages on a computer at full screen: on Home, Services and Retreats
+  gallery's photos, at Faye's request, and Coaching's the same since v2.50 (still centred over
+  the photo below, now ending exactly level with its button); the App, Presenting and
+  Speaking banner photos keep the black frame and tilt. Faye checks pages on a computer at full screen: on Home, Services and Retreats
   the first content (cards or first retreat) must show on the opening screen (1440x900).
 - **The Services page follows Faye's brief** (v2.14): titled "Move. Grow. Work." (she cut
   "With Faye", v2.17) beside the large F.I.T logo, in the same layout as the other pages: a
@@ -408,8 +409,9 @@ with v2.47: the F.I.T Trip ending on the 25th, with her screenshot. `prompt text
 shipped with v2.48: Book Here buttons with new links for Zanzibar and the F.I.T Trip (her
 first message asked without the links; her second gave them). `prompt text/50/` shipped with v2.49: the
 Work Gallery banner photo straightened with no frame, with her screenshot. (Her repeat of the
-Book Here request, already live in v2.48, shipped nothing.) The next release that ships new
-owner words starts `prompt text/51/`.
+Book Here request, already live in v2.48, shipped nothing.) `prompt text/51/` shipped with
+v2.50: the Coaching banner photo straightened with no frame, with her photo of the screen.
+The next release that ships new owner words starts `prompt text/52/`.
 
 ## Go-live checklist (phase 6)
 
@@ -520,5 +522,6 @@ handed back with each push. v2.0 onwards is the rebuild.
 | v2.47 | The F.I.T Trip now runs 22nd–25th April | The F.I.T Trip spa break to Bulgaria on the Retreats page now runs from the 22nd to the 25th of April 2027, three nights at the Grand Therme Hotel, matching the trip as Faye now offers it. |
 | v2.48 | Book Here for Zanzibar and the F.I.T Trip | On the Retreats page, Mind Fit Retreats Zanzibar and the F.I.T Trip to Bulgaria now each have a Book Here button that opens Faye's new booking page for that trip, so visitors can go straight from reading about a retreat to securing their place. |
 | v2.49 | The Work Gallery photo, straight and unframed | The photo at the top of the Work Gallery, Faye on stage with the crowd, now sits straight without its black border, with softly rounded corners like the gallery's other pictures. |
+| v2.50 | The Coaching photo, straight and unframed too | The photo of Faye beside Coaching and Consulting now sits straight without its black border, with the same softly rounded corners as the Work Gallery's, still lined up over the photo below and level with the Enquire here button. |
 
-Next release: **v2.50**.
+Next release: **v2.51**.
