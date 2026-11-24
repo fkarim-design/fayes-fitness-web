@@ -269,7 +269,6 @@
   .retreats-hero .eyebrow, .retreats-hero h1 { grid-column: 1 / -1; }
   .retreats-hero .lede, .retreats-hero .cta { grid-column: 1; }
   .retreats-hero .lede { max-width: 64ch; }
-  .retreats-hero .hero-logo { grid-column: 2; grid-row: 3 / 5; }
   .retreats-hero { padding-bottom: 28px; }
   .retreats-hero + .section { padding-top: 32px; }
   /* the Services cards' pictures and titles show on the opening screen */
