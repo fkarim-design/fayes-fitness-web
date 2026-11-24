@@ -1,6 +1,0 @@
-Link buttons for Bulgaria and Zanzibar. Change button to BOOK HERE and replace with new links
-
-Can you change the tabs under mind fit and f.i.t trip both to ‘BOOK HERE’ and new links:
-
-F.I.T Trip new link https://view.flodesk.com/emails/6af6f0384d8decda8bb7dd29
-Mind Fit https://view.flodesk.com/emails/6af5ba617be989f651f16c23
